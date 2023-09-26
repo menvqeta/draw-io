@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T11:59:24.580Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.2.9" etag="jrIfFt7PrxUL_dh72Xzu" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T12:07:21.993Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="m_7A_KMZI7GSey9Oh1pL" version="21.2.9" type="github">
   <diagram name="Page-1" id="gB24IeF-U_Kl7xra8Jkw">
-    <mxGraphModel>
+    <mxGraphModel dx="1114" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uQtkFiGzV1LvlnRmvnN_-2" value="AIM: Design a URL Shortening service like TinyURL" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="375" y="30" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
