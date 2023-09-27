@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T12:36:08.256Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="KRKj4eX3Vyh5NQNr53Qe" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T12:54:40.253Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Yzu9ptSfIe_6iUwvfiSf" version="21.8.2" type="github">
   <diagram name="Page-1" id="gB24IeF-U_Kl7xra8Jkw">
     <mxGraphModel dx="1114" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="10000" math="0" shadow="0">
       <root>
@@ -424,6 +424,12 @@
           <mxGeometry x="60" width="480" height="30" as="geometry">
             <mxRectangle width="480" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4vODBEarg38e8yoVheOn-29" value="&lt;ul style=&quot;font-size: 17px;&quot;&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;We can use a NoSQL database like Cassandra since there is no relation in between tables.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;Easier to scale NoSQL dbs.&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1770" width="380" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4vODBEarg38e8yoVheOn-30" value="5. Basic Design" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1900" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
